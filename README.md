@@ -120,4 +120,4 @@ This project highlights the value of **data storytelling, Power BI expertise, an
 
 ## 🙏 **Acknowledgements**
 
-Special thanks to the **Data Analytics Capstone Program** for providing the guidance, structure, and resources that made this analytical project possible.  
+Special thanks to the 10Analytics Capstone Program** for providing the guidance, structure, and resources that made this analytical project possible.  
